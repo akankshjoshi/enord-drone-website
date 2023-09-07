@@ -1,0 +1,14 @@
+.about-us {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .about-us h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .about-us p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
